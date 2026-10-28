@@ -53,9 +53,9 @@ My work focused on evaluating model configurations, comparing classification per
 
 ## Repository Contents
 
-- `notebooks/` — Model development and experimentation
+- `code/` — Model development and experimentation
 - `inference/` — Prediction script and serialized model parameters
-- `report/project_report.pdf` — Complete team project report
+- `project_report.pdf` — Complete team project report
 
 ## Inference
 
